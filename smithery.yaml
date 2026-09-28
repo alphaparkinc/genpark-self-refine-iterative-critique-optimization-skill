@@ -1,0 +1,6 @@
+name: genpark-self-refine-iterative-critique-optimization-skill
+version: 1.0.0
+description: Self-Refine iterative critique-and-refinement loop evaluating constraint adherence and applying structured revisions
+command: python
+args:
+  - mcp_server.py
