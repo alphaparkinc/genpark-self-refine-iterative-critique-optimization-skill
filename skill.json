@@ -1,0 +1,20 @@
+{
+  "name": "genpark-self-refine-iterative-critique-optimization-skill",
+  "version": "1.0.0",
+  "description": "Self-Refine iterative critique-and-refinement loop evaluating constraint adherence and applying structured revisions",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "self-refine",
+    "iterative-refinement",
+    "critique-loop",
+    "autonomous-agents",
+    "quality-optimization",
+    "python-standard-library",
+    "agent-skills",
+    "prompt-engineering",
+    "llm-alignment",
+    "automated-evaluation"
+  ]
+}
