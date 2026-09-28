@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-self-refine-iterative-critique-optimization-skill"
+version = "1.0.0"
+description = "Self-Refine iterative critique-and-refinement loop evaluating constraint adherence and applying structured revisions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
